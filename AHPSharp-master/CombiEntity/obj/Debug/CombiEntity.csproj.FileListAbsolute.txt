@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\AHPSharp-master\CombiEntity\bin\Debug\CombiEntity.dll.config
+C:\Users\ACER\Desktop\AHPSharp-master\CombiEntity\bin\Debug\CombiEntity.dll
+C:\Users\ACER\Desktop\AHPSharp-master\CombiEntity\bin\Debug\CombiEntity.pdb
+C:\Users\ACER\Desktop\AHPSharp-master\CombiEntity\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\AHPSharp-master\CombiEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\AHPSharp-master\CombiEntity\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\AHPSharp-master\CombiEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\AHPSharp-master\CombiEntity\obj\Debug\CombiEntity.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\AHPSharp-master\CombiEntity\obj\Debug\CombiEntity.dll
+C:\Users\ACER\Desktop\AHPSharp-master\CombiEntity\obj\Debug\CombiEntity.pdb

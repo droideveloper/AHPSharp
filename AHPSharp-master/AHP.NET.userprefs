@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{70D3230E-06A0-4AF0-A2B6-F27C9F00908E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceSharp/EndpointService.cs">
+    <Files>
+      <File FileName="AHPSharp/PairwiseComparison.cs" Line="119" Column="5" />
+      <File FileName="ConsoleApp/Program.cs" Line="57" Column="35" />
+      <File FileName="ServiceSharp/Global.asax.cs" Line="23" Column="41" />
+      <File FileName="ServiceSharp/Web.config" Line="21" Column="21" />
+      <File FileName="ServiceSharp/Proxy/Matrix.cs" Line="17" Column="1" />
+      <File FileName="ServiceSharp/EndpointService.cs" Line="59" Column="3" />
+      <File FileName="CombiEntity/Model/Combi.cs" Line="23" Column="8" />
+      <File FileName="ServiceSharp/Proxy/Combi.cs" Line="17" Column="25" />
+      <File FileName="CombiEntity/Context/AhpContext.cs" Line="18" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

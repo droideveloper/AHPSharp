@@ -1,0 +1,8 @@
+/Users/Fatih/NET_Workspaces/AHP.NET/CombiEntity/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Fatih/NET_Workspaces/AHP.NET/CombiEntity/bin/Debug/CombiEntity.dll.config
+/Users/Fatih/NET_Workspaces/AHP.NET/CombiEntity/bin/Debug/CombiEntity.dll.mdb
+/Users/Fatih/NET_Workspaces/AHP.NET/CombiEntity/bin/Debug/CombiEntity.dll
+/Users/Fatih/NET_Workspaces/AHP.NET/CombiEntity/obj/Debug/CombiEntity.dll
+/Users/Fatih/NET_Workspaces/AHP.NET/CombiEntity/obj/Debug/CombiEntity.dll.mdb
+/Users/Fatih/NET_Workspaces/AHP.NET/CombiEntity/bin/Debug/EntityFramework.dll
+/Users/Fatih/NET_Workspaces/AHP.NET/CombiEntity/bin/Debug/EntityFramework.SqlServer.dll

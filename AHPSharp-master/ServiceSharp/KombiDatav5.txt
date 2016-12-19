@@ -1,0 +1,53 @@
+Baymak,Lambert Attivo,Condensing Boiler,24,1600,2,160,763x450x345,http://www.kombipetekshop.com/fotogaleri/buyuk/116G9YNYYDM34.jpg,17
+ECA,Confeo Premix,Condensing Boiler,24,2100,3,160,750x454x365,http://www.kombipetekshop.com/fotogaleri/buyuk/15GPJJR7NG21.jpg,22
+Demirdöküm,Nitromix P,Condensing Boiler,24,1930,2,160,740x425x310,http://www.kombipetekshop.com/fotogaleri/buyuk/124EI5P4L8H4.jpg,28
+Airfel,Digifel Premix,Condensing Boiler,24,2150,3,160,733x403x410,http://www.kombipetekshop.com/fotogaleri/buyuk/118JOVREMOM39.jpg,17
+Ariston,Genus Premium,Condensing Boiler,24,2190,5,160,770x400x315,http://www.kombipetekshop.com/fotogaleri/buyuk/122DLZPD37F25.jpg,19
+Bosch,Condense,Condensing Boiler,25.6,1680,3,180,725x440x355,http://www.kombipetekshop.com/fotogaleri/buyuk/148N42NDSXJ15.jpg,24
+Buderus,GB012,Condensing Boiler,27.2,1850,2,200,715x440x355,http://www.kombipetekshop.com/fotogaleri/buyuk/15E6WW2YGT31.jpg,26
+Buderus,GB042,Condensing Boiler,22,2380,2,140,850x400x370,http://www.kombipetekshop.com/fotogaleri/buyuk/139UG7T3SBC42.jpg,22
+ECA,Confeo Premix,Condensing Boiler,30,2220,3,240,750x454x365,http://www.kombipetekshop.com/fotogaleri/buyuk/135IHEJ1NRW45.jpg,18
+Airfel,Digifel Premix,Condensing Boiler,29.3,2450,3,240,733x403x410,http://www.kombipetekshop.com/fotogaleri/buyuk/123IZ2PVWI76.jpg,21
+Ariston,Genus Premium Evo,Condensing Boiler,30,2270,5,240,770x400x385,http://www.kombipetekshop.com/fotogaleri/buyuk/155SQYLFYE428.jpg,12
+ECA,Confero Premix,Condensing Boiler,35,2450,3,350,750x454x400,http://www.kombipetekshop.com/fotogaleri/buyuk/158LO6YDOJV53.jpg,14
+Ariston, Genus Premium,Condensing Boiler,35,2500,5,350,770x400x385,http://www.kombipetekshop.com/fotogaleri/buyuk/144RDIRIQ2D1.jpg,16
+Vaillant,Turbo TEC Pro,Hermetic Boiler,20,1630,2,120,800x338x440,http://www.kombipetekshop.com/fotogaleri/buyuk/1193IOE9J9W13.jpg,17
+Vaillant,Turbo TEC Plus,Hermetic Boiler,20,1880,2,120,800x338x440,http://www.kombipetekshop.com/fotogaleri/buyuk/147L3YIXIEJ14.jpg,19
+ECA,Proteus,Hermetic Boiler,24,1290,3,120,720x400x330,http://www.kombipetekshop.com/fotogaleri/buyuk/12526273CZC15.png,23
+ECA,Proteus Plus,Hermetic Boiler,24,1320,3,120,720x400x330,http://www.kombipetekshop.com/fotogaleri/buyuk/123ITI7XG816.jpg,27
+ECA,Confeo Plus,Hermetic Boiler,24,1475,3,120,720x390x340,http://www.kombipetekshop.com/fotogaleri/buyuk/129TUYMGKHE17.jpg,22
+Demirdöküm,Nepto,Hermetic Boiler,24,1180,2,120,700x400x330,http://www.kombipetekshop.com/fotogaleri/buyuk/1432LINDQ9418.jpg,21
+Demirdöküm,Atron,Hermetic Boiler,24,1290,2,120,700x400x330,http://www.kombipetekshop.com/fotogaleri/buyuk/1023MI3H4C4.jpg,22
+Demirdöküm,Nitron Plus,Hermetic Boiler,24,1475,2,120,700x400x330,http://www.kombipetekshop.com/fotogaleri/buyuk/175P2J6XQH11.jpg,27
+Vaillant,Turbo TEC Pro,Hermetic Boiler,24,1800,2,120,800x338x440,http://www.kombipetekshop.com/fotogaleri/buyuk/141LIDBQKT533.jpg,26
+Vaillant,Turbo TEC Plus,Hermetic Boiler,24,2040,2,120,800x338x440,http://www.kombipetekshop.com/fotogaleri/buyuk/133QLF6WK5935.jpg,20
+Bosch,Classic Plus,Hermetic Boiler,24,1290,3,120,780x340x450,http://www.kombipetekshop.com/fotogaleri/buyuk/14TQQZ39LI16.jpg,17
+Bosch,Class 6000 W,Hermetic Boiler,24,1390,3,120,780x350x460,http://www.kombipetekshop.com/fotogaleri/buyuk/124TEVBUU4V30.jpg,14
+Bosch,Exclusive,Hermetic Boiler,24,1900,3,120,850x400x370,http://www.kombipetekshop.com/fotogaleri/buyuk/1229WUQN9H625.jpg,19
+Ariston,Matis,Hermetic Boiler,24,1150,3,120,820x380x400,http://www.kombipetekshop.com/fotogaleri/buyuk/121CL37QEUP0.jpg,26
+Ariston,Egis Plus,Hermetic Boiler,24,1170,3,120,780x340x440,http://www.kombipetekshop.com/fotogaleri/buyuk/117SV8STK2U58.jpg,27
+Ariston,Clas Evo,Hermetic Boiler,24,1285,3,120,770x400x315,http://www.kombipetekshop.com/fotogaleri/buyuk/132Z7D7H25S10.jpg,20
+Viessmann,Vitopend 100,Hermetic Boiler,24,1690,3,120,725x400x340,http://www.kombipetekshop.com/fotogaleri/buyuk/1481SH1FXIY16.jpg,14
+Buderus,U042,Hermetic Boiler,24,1380,2,120,720x420x320,http://www.kombipetekshop.com/fotogaleri/buyuk/12VEGX4ECR18.jpg,20
+Buderus,U052,Hermetic Boiler,24,1600,2,120,735x400x360,http://www.kombipetekshop.com/fotogaleri/buyuk/151F6TFRFIF38.jpg,11
+Buderus,U062,Hermetic Boiler,24,1900,2,120,840x440x350,http://www.kombipetekshop.com/fotogaleri/buyuk/19QT3Y1PFJ39.jpg,13
+Protherm,Leopar,Hermetic Boiler,24,1090,2,120,820x420x330,http://www.kombipetekshop.com/fotogaleri/buyuk/154VE85TF2452.jpg,16
+Protherm,Lynx,Hermetic Boiler,24,1090,2,120,780x400x310,http://www.kombipetekshop.com/fotogaleri/buyuk/150N7LMQP1T55.jpg,18
+Baymak,Lambert LX,Hermetic Boiler,24,1140,2,120,725x400x300,http://www.kombipetekshop.com/fotogaleri/buyuk/151ODIV2GOB10.jpg,18
+Baymak,ECO,Hermetic Boiler,24,1240,2,120,725x400x300,http://www.kombipetekshop.com/fotogaleri/buyuk/10PMIC5VGS44.jpg,14
+Baymak,Luna 5,Hermetic Boiler,24,1475,2,120,725x400x293,http://www.kombipetekshop.com/fotogaleri/buyuk/153X2UFKQGY7.jpg,11
+Airfel,Digifel,Hermetic Boiler,24,1175,3,120,750x420x297,http://www.kombipetekshop.com/fotogaleri/buyuk/116XKN395JR30.jpg,24
+Airfel,Digifel Duo,Hermetic Boiler,24,1320,3,120,800x450x320,http://www.kombipetekshop.com/fotogaleri/buyuk/14FH1II8WL15.jpg,28
+Airfel,Digifix Duo,Hermetic Boiler,24,1230,3,120,800x450x320,http://www.kombipetekshop.com/fotogaleri/buyuk/14FH1II8WL15.jpg,21
+ECA,Calora,Hermetic Boiler,28,1500,3,160,720x420x300,http://www.kombipetekshop.com/fotogaleri/buyuk/155QWIRPHH346.jpg,21
+ECA,Confeo,Hermetic Boiler,28,1600,3,160,720x420x300,http://www.kombipetekshop.com/fotogaleri/buyuk/151K853TYJ759.jpg,21
+Demirdöküm,Atron,Hermetic Boiler,28,1390,2,160,750x450x350,http://www.kombipetekshop.com/fotogaleri/buyuk/11468MCCTY14.jpg,17
+Bosch,Class 6000 W,Hermetic Boiler,28,1620,3,160,780x400x320,http://www.kombipetekshop.com/fotogaleri/buyuk/152FO9YFM135.jpg,13
+Bosch,Exclusive,Hermetic Boiler,28,2150,3,160,780x400x320,http://www.kombipetekshop.com/fotogaleri/buyuk/130IXJH6GNF30.jpg,16
+Buderus,U052,Hermetic Boiler,28,1900,2,160,735x400x360,http://www.kombipetekshop.com/fotogaleri/buyuk/1554SPI8PEI8.jpg,28
+Protherm,Lynx,Hermetic Boiler,28,1250,2,160,740x410x390,http://www.kombipetekshop.com/fotogaleri/buyuk/1539135ZCV29.jpg,21
+Demirdöküm,Nitron Plus,Hermetic Boiler,30,1620,2,180,750x420x400,http://www.kombipetekshop.com/fotogaleri/buyuk/125MN4LBO7211.jpg,26
+Ariston,Clas Evo,Hermetic Boiler,30,1590,3,180,770x400x315,http://www.kombipetekshop.com/fotogaleri/buyuk/138QT361XVK45.jpg,27
+Viessmann,Vitopend 100,Hermetic Boiler,31,1990,2,190,725x340x400,http://www.kombipetekshop.com/fotogaleri/buyuk/120L6CF8HVR28.jpg,21
+Airfel,Digifel Duo,Hermetic Boiler,30,1620,3,180,740x350x410,http://www.kombipetekshop.com/fotogaleri/buyuk/1461W1SVDT426.jpg,21
+Bosch,Exclusive,Hermetic Boiler,35,2400,3,250,750x360x450,http://www.kombipetekshop.com/fotogaleri/buyuk/147JW6N8DIW32.jpg,16
